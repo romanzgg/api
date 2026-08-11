@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wamberto9090/api.git"
+    "url": "git+https://github.com/romanzgg/api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/wamberto9090/api/issues"
+    "url": "https://github.com/romanzgg/api/issues"
   },
-  "homepage": "https://github.com/wamberto9090/api#readme",
+  "homepage": "https://github.com/romanzgg/api#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
